@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {},
   "keywords": [],
-  "author": "",
+  "author": "Nate Treadaway",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.56.0",
